@@ -1,0 +1,97 @@
+\documentclass[a4,11pt]{article}
+
+% -- Paquetes adicionales
+\usepackage{moodle}
+\usepackage{listings}
+
+% -- Datos 
+\title{Preguntas de probabilidad}
+\author{Andrés Merino, Jonathan Ortiz}
+\date{Febrero de 2024}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Indicaciones}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Se plantean preguntas para calcular ciertas probabilidades de una variable aleatoria binomial.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% No editar nada de aquí en adelante
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Se utilizó la siguiente pregunta base:
+\begin{lstlisting}[breaklines]
+
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Suma - [[id]]}
+    % - Enunciado
+    Determine el valor de 
+    \[
+        [[a]] + [[b]]
+    \]
+    \item[] [[a+b]]
+\end{numerical}
+
+\end{lstlisting}
+\noindent
+Con los siguientes parámetros:
+\begin{itemize}
+	\item $a \in \{-2, -1, 0, 1, 2\}$
+	\item $b \in \{-2, -1, 1, 2\}$
+
+\end{itemize}
+En total, se plantean 2 preguntas.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Banco de preguntas}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{quiz}{Suma}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Suma - 1}
+    % - Enunciado
+    Determine el valor de 
+    \[
+        2 + 1
+    \]
+    \item[] 3
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Suma - 2}
+    % - Enunciado
+    Determine el valor de 
+    \[
+        -2 + -1
+    \]
+    \item[] -3
+\end{numerical}
+
+
+
+
+\end{quiz}
+
+
+
+
+\end{document}
