@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This file was generated on 2024-06-14 by XeLaTeX -->
+<!-- This file was generated on 2024-10-14 by XeLaTeX -->
 <!-- running on Windows with the package moodle v0.9 -->
 
 <quiz>
  
 <question type="category">
   <category>
-    <text>$course$/top/Suma</text>
+    <text>$course$/top/Producto</text>
   </category>
 </question>
  
 <question type="numerical">
   <name format="html">
-    <text><![CDATA[Suma - 1]]></text>
+    <text><![CDATA[Producto - 1]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Determine el valor de \[ 2 + 1 \] </p>]]></text>
+    <text><![CDATA[<p>Determine el valor de \[ (-1) \cdot (-1) \] </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>3</text>
-    <tolerance>0.01</tolerance>
+    <text>1</text>
+    <tolerance>0</tolerance>
   </answer>
 </question>
 <question type="numerical">
   <name format="html">
-    <text><![CDATA[Suma - 2]]></text>
+    <text><![CDATA[Producto - 2]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Determine el valor de \[ -2 + -1 \] </p>]]></text>
+    <text><![CDATA[<p>Determine el valor de \[ (-2) \cdot (2) \] </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>-3</text>
-    <tolerance>0.01</tolerance>
+    <text>-4</text>
+    <tolerance>0</tolerance>
   </answer>
 </question>
  
