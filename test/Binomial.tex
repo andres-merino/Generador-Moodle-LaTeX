@@ -1,0 +1,163 @@
+\documentclass[a4,11pt]{aleph-notas}
+% Actualizado en febrero de 2024
+% Funciona con TeXLive 2022
+% Para obtener solo el pdf, compilar con pdfLaTeX. 
+% Para obtener el xml compilar con XeLaTeX.
+
+% -- Paquetes adicionales
+\usepackage{aleph-moodle}
+\moodleregisternewcommands
+% Todos los comandos nuevos deben ir luego del comando anterior
+\usepackage{aleph-comandos}
+
+% -- Datos 
+\institucion{Proyecto Alephsub0}
+% \carrera{}
+\asignatura{Formato Moodle}
+\tema{Banco de preguntas de prueba}
+\autor{Andrés Merino, Jonathan Ortiz}
+\fecha{Octubre 2024}
+\logouno[4.5cm]{Logos/LogoAlephsub0-02}
+\definecolor{colortext}{HTML}{0030A1}
+\definecolor{colordef}{HTML}{00A1DE}
+\fuente{montserrat}
+% \fuente{mathpazo}
+
+% -- Otros comandos
+\newcommand{\Bin}{\text{Bin}}
+
+\begin{document}
+
+\encabezado
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Indicaciones}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Escribir las indicaciones aquí
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% No editar nada de aquí en adelante
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Se utilizó los siguientes parámetros:
+\begin{itemize}
+	\item $n \in \{5, 7, 10\}$
+	\item $p \in \{0.2, 0.3, 0.7\}$
+	\item $unParametro \in \{True, False\}$
+
+\end{itemize}
+En total, se plantean 10 preguntas.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Banco de preguntas}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{quiz}{Binomial}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 1}
+    % - Enunciado
+    Sea \( X \sim \Bin(5,0.7) \). Calcule \( P(1 \leq X \leq 2) \).
+    \item[] 0.1607
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 2}
+    % - Enunciado
+    Sea \( X \sim \Bin(5,0.3) \). Calcule \( P(1 \leq X \leq 3) \).
+    \item[] 0.8011
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 3}
+    % - Enunciado
+    Sea \( X \sim \Bin(10,0.3) \). Calcule \( P(X \geq 6) \).
+    \item[] 0.0473
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 4}
+    % - Enunciado
+    Sea \( X \sim \Bin(10,0.7) \). Calcule \( P(2 \leq X \leq 9) \).
+    \item[] 0.9716
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 5}
+    % - Enunciado
+    Sea \( X \sim \Bin(10,0.7) \). Calcule \( P(X = 5) \).
+    \item[] 0.1029
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 6}
+    % - Enunciado
+    Sea \( X \sim \Bin(10,0.2) \). Calcule \( P(6 \leq X \leq 8) \).
+    \item[] 0.0064
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 7}
+    % - Enunciado
+    Sea \( X \sim \Bin(7,0.2) \). Calcule \( P(1 \leq X \leq 2) \).
+    \item[] 0.6423
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 8}
+    % - Enunciado
+    Sea \( X \sim \Bin(7,0.7) \). Calcule \( P(X \leq 1) \).
+    \item[] 0.0038
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 9}
+    % - Enunciado
+    Sea \( X \sim \Bin(7,0.7) \). Calcule \( P(3 \leq X \leq 4) \).
+    \item[] 0.3241
+\end{numerical}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{numerical}[tolerance=0.01]%
+    % - Indentificador
+    {Binomial - 10}
+    % - Enunciado
+    Sea \( X \sim \Bin(5,0.3) \). Calcule \( P(X = 2) \).
+    \item[] 0.3087
+\end{numerical}
+
+
+
+
+\end{quiz}
+
+
+
+
+\end{document}
