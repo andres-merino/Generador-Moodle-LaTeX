@@ -1,0 +1,14 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "test/Binomial.xdv" "test/Binomial.pdf" "test/Binomial" 0 -1
+  "test/Binomial.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "test/Binomial.pdf"
+  (rewritten before read)
+["xelatex"] 0 "test/Binomial.tex" "test/Binomial.xdv" "Binomial" 0 -1
+  "test/Binomial.aux" 0 -1 0 "xelatex"
+  "test/Binomial.tex" 0 -1 0 ""
+  (generated)
+  "test/Binomial.aux"
+  "test/Binomial.log"
+  "test/Binomial.xdv"
+  (rewritten before read)
