@@ -15,6 +15,12 @@
     <br />
     <a href="https://github.com/andres-merino/Generador-Moodle-LaTeX/issues">Reportar un Problema</a>
     <br />
+    <br />
+    Abrir en 
+    <br />
+    <a href="https://colab.research.google.com/github/andres-merino/Generador-Moodle-LaTeX/blob/main/Codigo%20Colab%20v01.ipynb">
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=for-the-badge" alt="Google Colab Badge">
+    </a>
   </p>
 </div>
 
@@ -22,7 +28,7 @@
 <!-- Cuerpo -->
 ## Sobre el Proyecto
 
-Este proyecto se ha desarrollado con el objetivo de facilitar la creación de preguntas para Moodle mediante el uso de LaTeX. Se proporciona un cuaderno de Jupyter con ejemplos de preguntas de selección múltiple, verdadero/falso, respuesta corta y numérica, escritas en LaTeX, para que se generen automáticamente las preguntas en formato Moodle, variando parámetros en el enunciado y en las respuestas.
+Este proyecto se ha desarrollado con el objetivo de facilitar la creación de preguntas para Moodle mediante el uso de LaTeX.
 
 ### Construido con
 
@@ -30,7 +36,10 @@ Este proyecto se ha desarrollado con el objetivo de facilitar la creación de pr
 
 ## Descripción
 
-El cuaderno de Jupyter contiene ejemplos de preguntas de selección múltiple, verdadero/falso, respuesta corta y numérica, escritas en LaTeX, para que se generen automáticamente las preguntas en formato Moodle, variando parámetros en el enunciado y en las respuestas.
+El proyecto se ha desarrollado en un entorno de Jupyter Notebook, el cual permite la creación de preguntas para Moodle mediante el uso de LaTeX y el paquete `moodle` de Python (ver [moodle](https://mirrors.ucr.ac.cr/CTAN/macros/latex/contrib/moodle/moodle.pdf)). Se tienen los siguientes cuadernos:
+
+- **Código v01**: Cuaderno de Jupyter Notebook que permite la creación de preguntas, el script da como resultado un archivo XML que contiene las preguntas y un archivo PDF que muestra las preguntas. Es necesario tener instalado LaTeX en el sistema para poder compilar el archivo TEX y generar el archivo PDF.
+- **Código Colab v01**: Cuaderno de Google Colab que permite la creación de preguntas, el script da como resultado un archivo TEX que, al compilarlo con XeLaTeX, genera un archivo PDF que muestra las preguntas y un archivo XML que contiene las preguntas.
 
  
 ## Créditos
