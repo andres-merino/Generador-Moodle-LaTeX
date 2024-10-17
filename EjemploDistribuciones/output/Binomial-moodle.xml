@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is a question bank made for Moodle -->
+<!-- It was generated on 2024-10-17 10:37 by XeLaTeX running -->
+<!-- on Windows with the package moodle v1.0 (2023/01/28) -->
+
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$course$/top/Binomial</text>
+  </category>
+</question>
+ 
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 1]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(5,0.7) \). Calcule \( P(1 \leq X \leq 2) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.1607</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 2]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(5,0.3) \). Calcule \( P(1 \leq X \leq 3) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.8011</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 3]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(10,0.3) \). Calcule \( P(X \geq 6) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0473</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 4]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(10,0.7) \). Calcule \( P(2 \leq X \leq 9) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.9716</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 5]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(10,0.7) \). Calcule \( P(X = 5) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.1029</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 6]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(10,0.2) \). Calcule \( P(6 \leq X \leq 8) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0064</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 7]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(7,0.2) \). Calcule \( P(1 \leq X \leq 2) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.6423</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 8]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(7,0.7) \). Calcule \( P(X \leq 1) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0038</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 9]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(7,0.7) \). Calcule \( P(3 \leq X \leq 4) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.3241</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Binomial - 10]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Bin}(5,0.3) \). Calcule \( P(X = 2) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.3087</text>
+    <tolerance>0.01</tolerance>
+  </answer>
+</question>
+ 
+</quiz>
