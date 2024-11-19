@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This is a question bank made for Moodle -->
-<!-- It was generated on 2024-10-17 14:50 by XeLaTeX running -->
+<!-- It was generated on 2024-11-19 10:5 by XeLaTeX running -->
 <!-- on Windows with the package moodle v1.0 (2023/01/28) -->
 
 <quiz>
@@ -16,15 +16,15 @@
     <text><![CDATA[Poisson - 1]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(3) \). Calcule \( P(X = 1) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(6) \). Calcule \( P(2 \leq X \leq 9) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.1494</text>
-    <tolerance>0.01</tolerance>
+    <text>0.8987</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -32,15 +32,15 @@
     <text><![CDATA[Poisson - 2]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(3) \). Calcule \( P(1 \leq X \leq 5) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(4) \). Calcule \( P(9 \leq X \leq 10) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.8663</text>
-    <tolerance>0.01</tolerance>
+    <text>0.0185</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -48,15 +48,15 @@
     <text><![CDATA[Poisson - 3]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(4) \). Calcule \( P(X = 5) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(5) \). Calcule \( P(X \geq 0) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.1563</text>
-    <tolerance>0.01</tolerance>
+    <text>1.0</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -64,15 +64,15 @@
     <text><![CDATA[Poisson - 4]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(4) \). Calcule \( P(2 \leq X \leq 8) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(1) \). Calcule \( P(0 \leq X \leq 3) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.8871</text>
-    <tolerance>0.01</tolerance>
+    <text>0.981</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -80,15 +80,15 @@
     <text><![CDATA[Poisson - 5]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(5) \). Calcule \( P(X \geq 8) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(8) \). Calcule \( P(9 \leq X \leq 11) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.1334</text>
-    <tolerance>0.01</tolerance>
+    <text>0.2955</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -96,15 +96,15 @@
     <text><![CDATA[Poisson - 6]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(5) \). Calcule \( P(3 \leq X \leq 13) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(7) \). Calcule \( P(X = 5) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.8746</text>
-    <tolerance>0.01</tolerance>
+    <text>0.1277</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -112,15 +112,15 @@
     <text><![CDATA[Poisson - 7]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(6) \). Calcule \( P(X = 8) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(6) \). Calcule \( P(7 \leq X \leq 14) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.1033</text>
-    <tolerance>0.01</tolerance>
+    <text>0.3923</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -128,15 +128,287 @@
     <text><![CDATA[Poisson - 8]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(6) \). Calcule \( P(10 \leq X \leq 13) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(7) \). Calcule \( P(10 \leq X \leq 12) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.0803</text>
-    <tolerance>0.01</tolerance>
+    <text>0.1425</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 9]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(10) \). Calcule \( P(4 \leq X \leq 15) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.9409</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 10]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(8) \). Calcule \( P(7 \leq X \leq 9) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.4032</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 11]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(5) \). Calcule \( P(7 \leq X \leq 10) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.2241</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 12]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(8) \). Calcule \( P(X \geq 6) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.8088</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 13]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(5) \). Calcule \( P(X = 1) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0337</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 14]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(4) \). Calcule \( P(X \leq 0) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0183</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 15]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(4) \). Calcule \( P(2 \leq X \leq 6) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.7977</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 16]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(2) \). Calcule \( P(X \geq 4) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.1429</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 17]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(2) \). Calcule \( P(3 \leq X \leq 5) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.3068</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 18]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(6) \). Calcule \( P(X \geq 1) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.9975</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 19]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(9) \). Calcule \( P(X = 9) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.1318</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 20]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(3) \). Calcule \( P(2 \leq X \leq 4) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.6161</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 21]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(10) \). Calcule \( P(X = 3) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0076</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 22]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(1) \). Calcule \( P(X = 1) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.3679</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 23]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(10) \). Calcule \( P(11 \leq X \leq 22) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.4167</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 24]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(4) \). Calcule \( P(X = 1) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0733</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Poisson - 25]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {Poi}(7) \). Calcule \( P(X = 10) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.071</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
  

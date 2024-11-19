@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This is a question bank made for Moodle -->
-<!-- It was generated on 2024-10-17 14:50 by XeLaTeX running -->
+<!-- It was generated on 2024-11-19 10:10 by XeLaTeX running -->
 <!-- on Windows with the package moodle v1.0 (2023/01/28) -->
 
 <quiz>
@@ -16,15 +16,15 @@
     <text><![CDATA[Normal - 1]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(3, 9) \). Calcule \( P(2.25 \leq X \leq 2.64) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-20,\ 2.25) \). Calcule \( P(-19.93 \leq X \leq -17.21) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.0509</text>
-    <tolerance>0.01</tolerance>
+    <text>0.4499</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -32,15 +32,15 @@
     <text><![CDATA[Normal - 2]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(3, 4) \). Calcule \( P(0.05 \leq X \leq 5.3) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-30,\ 7.29) \). Calcule \( P(X \geq -30.1) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.8048</text>
-    <tolerance>0.01</tolerance>
+    <text>0.5148</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -48,15 +48,15 @@
     <text><![CDATA[Normal - 3]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(6, 4) \). Calcule \( P(8.1 \leq X \leq 9.45) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(25,\ 0.04) \). Calcule \( P(24.72 \leq X \leq 24.81) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.1046</text>
-    <tolerance>0.01</tolerance>
+    <text>0.0903</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -64,15 +64,15 @@
     <text><![CDATA[Normal - 4]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(5, 4) \). Calcule \( P(X \leq 1.81) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(5,\ 21.16) \). Calcule \( P(2.4 \leq X \leq 12.5) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.0554</text>
-    <tolerance>0.01</tolerance>
+    <text>0.6625</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -80,15 +80,15 @@
     <text><![CDATA[Normal - 5]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(4, 9) \). Calcule \( P(X \leq 5.36) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-10,\ 0.04) \). Calcule \( P(-10.27 \leq X \leq -9.91) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.6748</text>
-    <tolerance>0.01</tolerance>
+    <text>0.5851</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -96,15 +96,15 @@
     <text><![CDATA[Normal - 6]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(4, 1) \). Calcule \( P(5.07 \leq X \leq 6.24) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-17,\ 0.25) \). Calcule \( P(-16.84 \leq X \leq -16.37) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.1298</text>
-    <tolerance>0.01</tolerance>
+    <text>0.2706</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -112,15 +112,15 @@
     <text><![CDATA[Normal - 7]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(4, 1) \). Calcule \( P(X \leq 2.3) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(31,\ 17.64) \). Calcule \( P(X \leq 31.02) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.0446</text>
-    <tolerance>0.01</tolerance>
+    <text>0.5019</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -128,15 +128,15 @@
     <text><![CDATA[Normal - 8]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(5, 4) \). Calcule \( P(1.65 \leq X \leq 10.71) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(32,\ 9.0) \). Calcule \( P(X \leq 37.28) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.9509</text>
-    <tolerance>0.01</tolerance>
+    <text>0.9608</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -144,15 +144,15 @@
     <text><![CDATA[Normal - 9]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(5, 9) \). Calcule \( P(X \geq 5.68) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-20,\ 8.41) \). Calcule \( P(-17.44 \leq X \leq -14.66) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.4103</text>
-    <tolerance>0.01</tolerance>
+    <text>0.1559</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
 <question type="numerical">
@@ -160,15 +160,255 @@
     <text><![CDATA[Normal - 10]]></text>
   </name>
   <questiontext format="html">
-    <text><![CDATA[<p>Sea \( X \sim \text {N}(3, 4) \). Calcule \( P(X \leq 4.2) \). </p>]]></text>
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(30,\ 1.21) \). Calcule \( P(X \geq 30.09) \). </p>]]></text>
   </questiontext>
   <defaultgrade>1.0</defaultgrade>
   <generalfeedback format="html"><text/></generalfeedback>
   <penalty>0.10</penalty>
   <hidden>0</hidden>
   <answer fraction="100" format="plain_text">
-    <text>0.7257</text>
-    <tolerance>0.01</tolerance>
+    <text>0.4674</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 11]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-1,\ 4.0) \). Calcule \( P(-4.59 \leq X \leq -3.89) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0379</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 12]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(26,\ 9.61) \). Calcule \( P(31.41 \leq X \leq 32.19) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0176</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 13]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-6,\ 1.44) \). Calcule \( P(X \leq -6.22) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.4273</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 14]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-18,\ 15.21) \). Calcule \( P(-23.86 \leq X \leq -18.25) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.408</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 15]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-8,\ 4.84) \). Calcule \( P(X \geq -9.95) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.8123</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 16]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-31,\ 12.96) \). Calcule \( P(-33.3 \leq X \leq -29.3) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.4202</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 17]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(4,\ 1.44) \). Calcule \( P(0.45 \leq X \leq 5.86) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.9379</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 18]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(37,\ 2.25) \). Calcule \( P(X \leq 39.46) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.9495</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 19]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-21,\ 0.64) \). Calcule \( P(X \leq -21.48) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.2743</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 20]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-11,\ 1.21) \). Calcule \( P(X \geq -13.45) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.987</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 21]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-22,\ 1.69) \). Calcule \( P(-23.28 \leq X \leq -23.09) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.0385</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 22]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-11,\ 11.56) \). Calcule \( P(-8.73 \leq X \leq -2.58) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.2455</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 23]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(-17,\ 5.76) \). Calcule \( P(X \geq -14.14) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.1167</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 24]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(11,\ 0.36) \). Calcule \( P(X \geq 10.72) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.6796</text>
+    <tolerance>0.001</tolerance>
+  </answer>
+</question>
+<question type="numerical">
+  <name format="html">
+    <text><![CDATA[Normal - 25]]></text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Sea \( X \sim \text {N}(46,\ 1.21) \). Calcule \( P(48.03 \leq X \leq 48.58) \). </p>]]></text>
+  </questiontext>
+  <defaultgrade>1.0</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.10</penalty>
+  <hidden>0</hidden>
+  <answer fraction="100" format="plain_text">
+    <text>0.023</text>
+    <tolerance>0.001</tolerance>
   </answer>
 </question>
  
